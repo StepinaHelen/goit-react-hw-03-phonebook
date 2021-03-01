@@ -1,0 +1,15 @@
+.listItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 3px solid rgb(49, 105, 138);
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+}
+.name,
+.number {
+  font-size: 18px;
+}

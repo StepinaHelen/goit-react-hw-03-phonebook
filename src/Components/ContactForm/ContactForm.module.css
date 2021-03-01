@@ -1,0 +1,19 @@
+.form {
+  border: 3px solid rgb(49, 105, 138);
+  padding: 40px;
+  max-width: 500px;
+}
+
+.input {
+  max-width: 450px;
+  height: 30px;
+}
+
+.label {
+  max-width: 450px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+}
